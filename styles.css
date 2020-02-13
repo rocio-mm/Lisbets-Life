@@ -1,0 +1,21 @@
+body {
+    color: white;
+    background-color: papayawhip;
+    text-align: center;
+    background:url("https://i.pinimg.com/originals/98/c0/76/98c07635be337230c9d5baa0850c6cc5.jpg");
+}
+
+h1 {
+    font-family: 'Inconsolata', monospace;
+}
+h1:hover { 
+    color:crimson;
+}
+
+h3 {
+    font-family: 'Indie Flower', cursive;
+}
+
+img {
+    width: 100px;
+}
